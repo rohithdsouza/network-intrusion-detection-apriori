@@ -1,6 +1,6 @@
 # Network Intrusion Detection using Apriori
 In this Notebook Apriori is implemented to detect Network Intrusion.
-###Features
+### Features
 - A dataset was obtained which consists of a wide variety of intrusions simulated in a military network environment. 
 - The dataset contains _22544 rows_ and _41 columns_ (3 qualitative and 38 quantitative features).
 - The class variable has two categories:  1.
